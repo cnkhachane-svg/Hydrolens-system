@@ -1,0 +1,27 @@
+# Python / Backend
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.pt
+test_suite/
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+*.log
+# Training & dataset folders
+backend/training/
+training/
+Microplastics-1/
+backend/Microplastics-1/
+test_suite/
+*.txt.rf.*
