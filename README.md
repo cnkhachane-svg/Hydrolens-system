@@ -90,3 +90,14 @@ Screening environmental water samples for microplastics via conventional analyti
 |  - Triaged Laboratory Referral Banner                                             |
 |  - Standardized ISO/DIS 24187 Printable Dossier & CSV Exporter                    |
 +-----------------------------------------------------------------------------------+
+## ⚙️ Quick Start Guide
+
+### Prerequisites
+- Node.js (v18.x or later)
+- Python (v3.10 / v3.11) with pip
+- Modern Chromium-based browser (Chrome, Edge)
+
+### Running Locally
+1. Clone the repository.
+2. Double-click `start_all.bat` in the root folder.
+3. The script configures virtual environments, installs dependencies, and serves the UI at `http://localhost:5173`.
